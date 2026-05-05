@@ -1,0 +1,12 @@
+Sobre: Gerador de senhas totalmente personalizado para o usuário fazer a senha dele do jeito que preferir
+
+Bibliotecas Usadas: secrets, string, time, rich
+
+Guia das Bibliotecas: 
+secrets - https://docs.python.org/3/library/secrets.html
+string - https://docs.python.org/3/library/string.html
+time - https://docs.python.org/3/library/time.html
+rich - https://rich.readthedocs.io/en/stable/
+
+
+

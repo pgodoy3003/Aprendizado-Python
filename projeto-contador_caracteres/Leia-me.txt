@@ -1,0 +1,9 @@
+Sobre: O contador serve para contar quantos caracteres tem em uma palavra, frase, poesia, redação etc.
+
+Bibliotecas usadas: sys, os
+
+Guia das bibliotecas: 
+sys - https://docs.python.org/3/library/sys.html
+os - https://docs.python.org/3/library/os.html
+
+Como funciona: Coloque a o texto no arquivo base.txt e salve logo depois, rode o script que vai mostrar quantos caracteres esse texto tem.

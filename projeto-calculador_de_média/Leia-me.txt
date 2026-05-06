@@ -1,0 +1,4 @@
+Sobre: Uma calculadora de até 10 notas para salvar a vida de quem não gosta de ficar calculando normalmente, podendo receber uma resposta quase que instantânea logo após digitar a nota.
+
+Bibliotecas Usadas: ---
+
